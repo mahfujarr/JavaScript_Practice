@@ -1,0 +1,17 @@
+body{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#count{
+    font-size: 60px;
+    color: #002aff;
+    text-align: center;
+    display: block;
+}
+.button{
+    font-size: 15px;
+    width: auto;
+    color: #fff;
+    cursor: pointer;
+    justify-content: center;
+    display: flex;
+}
